@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="avoid_obs_basic" type="scan_move.py" name="scan_move_node" output="screen">
+    </node>
+</launch>
+
